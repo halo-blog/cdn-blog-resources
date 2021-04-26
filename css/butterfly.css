@@ -217,8 +217,8 @@
 
 
 @media screen and (max-width: 900px){
-    /* 不显示卡片 */
-    div#aside-content {
+    /* 不显示主页卡片 */
+    #recent-posts ~ #aside-content {
         display: none;
     }
     /*底部留白*/
