@@ -5,6 +5,20 @@
     --dark_page_color: rgba(18, 18, 18, 0.82)
 }
 
+/* 音频卡片位置 */
+.audio {
+    text-align: center;
+}
+
+/* codepen */
+/* body#the-body {
+    border-radius: 8px;
+} */
+
+/* #tabs pre {
+    font-size:16px!important;
+} */
+
 /* 链接卡片居中 */
 .tag.link {
     text-align: center;    
