@@ -12,6 +12,12 @@ mjx-math {
     font-size: 90%!important;
 }
 
+/* 行间公式margin */
+
+mjx-container[jax="CHTML"][display="true"] {
+    margin: 0.5em 0!important;
+}
+
 /* 隐藏分享 */
 
 .tag_share {
